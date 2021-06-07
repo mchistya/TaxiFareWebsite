@@ -1,0 +1,5 @@
+streamlit
+datetime
+requests
+setup
+find_packages
